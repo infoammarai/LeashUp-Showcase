@@ -48,7 +48,7 @@ Only this layout sample and portfolio documentation are public. Production repos
 
 ## More app showcases
 
-- [WoofyWalky](https://github.com/infoammarai/WoofyWalky-Showcase) — dog care routines
+- [LeashUp](https://github.com/infoammarai/LeashUp-Showcase) — dog care routines
 - [ABCTrade](https://github.com/infoammarai/ABCTrade-Showcase) — trading workspace concept
 - [CyrenX](https://github.com/infoammarai/CyrenX-Showcase) — wellness concept
 
