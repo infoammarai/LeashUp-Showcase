@@ -1,4 +1,4 @@
-![WoofyWalky — Every walk. Every meal. A healthier routine.](docs/cover.svg)
+![LeashUp — Every walk. Every meal. A healthier routine.](docs/cover.svg)
 
 # WoofyWalky
 
